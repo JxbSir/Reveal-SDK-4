@@ -25,9 +25,6 @@
   "ios": {
     "vendored_frameworks": "RevealServer-4/iOS/RevealServer.framework"
   },
-  "tvos": {
-    "vendored_frameworks": "RevealServer-4/tvOS/RevealServer.framework"
-  },
   "xcconfig": {
     "LD_RUNPATH_SEARCH_PATHS": "$(inherited) @executable_path/Frameworks @loader_path/Frameworks"
   }
