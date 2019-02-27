@@ -16,7 +16,7 @@ inhibit_all_warnings!
 
 target :TargetName do
 
-pod 'Reveal-SDK',:git =>"https://github.com/chaserr/Reveal-SDK-4.git", :configurations => ['Debug']
+pod 'Reveal-SDK',:git =>"https://github.com/JxbSir/Reveal-SDK-4.git", :configurations => ['Debug']
 
 end
 ```
@@ -28,6 +28,5 @@ $ pod install
 # How To Use
 >无需添加任何代码，直接打开 Reveal工具选择对应的工程即可
 
-[相关使用：简书](http://www.jianshu.com/p/e1f39f9a3653)
 
 
